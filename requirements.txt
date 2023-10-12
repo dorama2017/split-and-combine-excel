@@ -1,0 +1,4 @@
+pywin32==304
+pywin32==306
+xlwings==0.30.2
+xlwings==0.30.12
